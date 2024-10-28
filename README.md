@@ -7,13 +7,15 @@
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <h3 align="center">A passionate Software Engineer</h3>
-<img  align="right"  width="340" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadun-sankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="nadun-sankalpa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadun-sankalpa" alt="nadun-sankalpa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img  align="right"  width="340" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" >
 
 - 🌱 I’m currently learning **Java,C#,Python,JavaScript**
 
