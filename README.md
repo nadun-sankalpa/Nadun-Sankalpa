@@ -11,6 +11,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadun-sankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="nadun-sankalpa" /> </p>
 
+<div align="center">
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
+
+</div>
+
 ## 🏆 GitHub Trophies
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
