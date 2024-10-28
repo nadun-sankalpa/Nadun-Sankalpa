@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt ="Coding" width="400" src="https://www.pinterest.com/pin/pinterest--311381761734186207/"
+<img  align="right"  width="340" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadun-sankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="nadun-sankalpa" /> </p>
 
