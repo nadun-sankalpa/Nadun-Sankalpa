@@ -57,3 +57,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadun-sankalpa&show_icons=true&locale=en" alt="nadun-sankalpa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadun-sankalpa&" alt="nadun-sankalpa" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
