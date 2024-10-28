@@ -90,11 +90,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadun-sankalpa&" alt="nadun-sankalpa" /></p>
 
-<div align="center">
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
-
-</div>
 
 
 <p align="center">
