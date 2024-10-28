@@ -14,7 +14,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=LahiruHarshana&layout=compact&theme=algolia" alt="NadunSankalpa" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NadunSankalpa&layout=compact&theme=algolia" alt="NadunSankalpa" />
  </a>
 </p>
 
