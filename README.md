@@ -85,15 +85,17 @@
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadun-sankalpa&show_icons=true&locale=en&layout=compact" alt="nadun-sankalpa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadun-sankalpa&show_icons=true&locale=en" alt="nadun-sankalpa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadun-sankalpa&" alt="nadun-sankalpa" /></p>
+
 <div align="center">
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadun-sankalpa&show_icons=true&locale=en" alt="nadun-sankalpa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadun-sankalpa&" alt="nadun-sankalpa" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
